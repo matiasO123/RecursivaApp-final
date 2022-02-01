@@ -1,0 +1,16 @@
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\AccesoDatos.dll
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\AccesoDatos.pdb
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\System.Data.SQLite.dll
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\System.Data.SQLite.xml
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\obj\Release\AccesoDatos.csprojAssemblyReference.cache
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\obj\Release\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\obj\Release\AccesoDatos.csproj.CopyComplete
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\obj\Release\AccesoDatos.dll
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\obj\Release\AccesoDatos.pdb
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\AccesoDatos.dll.config
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\EntityFramework.dll
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\EntityFramework.xml
+C:\Users\matia\Desktop\CRUXTOTAL\CerveceriaStockMauricio\CerveceriaStockMauricio\AccesoDatos\bin\Release\EntityFramework.SqlServer.xml
