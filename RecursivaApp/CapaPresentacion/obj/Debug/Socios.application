@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Socios.exe.manifest" size="49198">
+    <dependentAssembly dependencyType="install" codebase="Socios.exe.manifest" size="10567">
       <assemblyIdentity name="Socios.exe" version="1.0.2.33" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pmMjW+RCg7bRiNgQaCROwTQ7MZhKUHA6aHAtB91m3ZI=</dsig:DigestValue>
+        <dsig:DigestValue>I4whJB3q44ZJTc+y++xXvOq7e4+MtdaWefsOZyawXW8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
